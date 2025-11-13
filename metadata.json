@@ -1,0 +1,5 @@
+{
+  "name": "Heating Cost Savings Calculator",
+  "description": "An advanced calculator to determine potential savings by switching to a heat pump, providing recommendations for heat pump sizing and personalized result analysis using Gemini.",
+  "requestFramePermissions": []
+}
